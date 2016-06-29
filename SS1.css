@@ -8,8 +8,10 @@ body {
 	text-align: center;
  }
 .content {
-	background: white;
-    padding: 10px 30px 10px 30px;
-    border: 1px solid silver;
+     background: white;
+     padding: 10px 30px 10px 30px;
+     border: 1px solid silver;
+     width: 500px;
+     height: 1000px;
+     margin:0 auto;
 }
-
